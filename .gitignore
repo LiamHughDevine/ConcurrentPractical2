@@ -1,0 +1,7 @@
+.bsp
+.idea
+.vscode
+project
+target
+build.sbt
+.metals
